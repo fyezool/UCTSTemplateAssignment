@@ -1,0 +1,11 @@
+\changetocdepth {3}
+\contentsline {chapter}{TABLE OF CONTENTS}{ii}{section*.1}
+\vspace *{-4pt}
+\contentsline {chapter}{\chapternumberline {1}\MakeUppercase {Introduction}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}First Test and I need a really long title, please do oblige me won't you? Just a few more words and yes we're there}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Second Test}{2}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}Yeah}{2}{section.1.2}
+\vspace *{-4pt}
+\contentsline {chapter}{\chapternumberline {2}\MakeUppercase {Dummy Chapter}}{4}{chapter.2}
+\cftinsert {narrowertoc}
+\contentsline {chapter}{REFERENCES}{6}{chapter*.6}
